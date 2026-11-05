@@ -19,3 +19,10 @@ jobs:
 
       - name: Test repository
         run: echo "NourishLink repository checkout successful!"
+
+
+      - name: Check repository files
+        run: |
+          echo "Checking repository files..."
+          test -f README.md -o -f .gitignore
+          echo "Repository files found successfully!"
