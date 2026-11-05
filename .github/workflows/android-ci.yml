@@ -26,3 +26,11 @@ jobs:
           echo "Checking repository files..."
           test -f README.md -o -f .gitignore
           echo "Repository files found successfully!"
+
+          
+      - name: Check project folders
+        run: |
+          echo "Checking project structure..."
+          find . -maxdepth 2 -type d
+          echo "Project folder check completed successfully!"
+
