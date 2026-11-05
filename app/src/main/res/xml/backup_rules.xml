@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Auth token and session live in EncryptedSharedPreferences and are excluded from backup on purpose. -->
+    <exclude domain="sharedpref" path="nourishlink_secure_prefs.xml" />
+</full-backup-content>

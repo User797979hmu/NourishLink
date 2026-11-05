@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NourishLink</string>
+    <string name="tagline">Bridging surplus, ending hunger</string>
+
+    <string name="notification_channel_id">nourishlink_alerts</string>
+    <string name="notification_channel_name">Surplus alerts</string>
+    <string name="notification_channel_description">New listings and claim updates</string>
+
+    <!-- Auth -->
+    <string name="login_title">Bridging surplus,\nending hunger</string>
+    <string name="login_subtitle">Sign in to reserve surplus food from vendors near your shelter or home.</string>
+    <string name="hint_email">Email address</string>
+    <string name="hint_password">Password</string>
+    <string name="action_login">Log in</string>
+    <string name="action_google_sign_in">Continue with Google</string>
+    <string name="prompt_create_account">New here? Create an account</string>
+    <string name="action_guest_mode">Continue as Guest (Offline Demo)</string>
+    <string name="or_divider">OR</string>
+    <string name="error_fill_all_fields">Please fill in all fields</string>
+    <string name="error_password_too_short">Password must be at least 8 characters</string>
+    <string name="error_google_sign_in_unavailable">Google Sign-In is unavailable on this device</string>
+
+    <string name="register_title">Create your account</string>
+    <string name="hint_name">Full name</string>
+    <string name="hint_organisation">Organisation (optional)</string>
+    <string name="role_donor">Donor</string>
+    <string name="role_beneficiary">Beneficiary</string>
+    <string name="action_register">Create account</string>
+    <string name="prompt_back_to_login">Already have an account? Log in</string>
+
+    <!-- Main -->
+    <string name="nav_feed">Feed</string>
+    <string name="nav_claims">My claims</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_impact">Impact</string>
+    <string name="nav_settings">Profile</string>
+    <string name="feed_title">Nearby surplus</string>
+    <string name="empty_feed">No surplus listings match your filter — pull down to refresh.</string>
+
+    <!-- Detail -->
+    <string name="action_reserve">Reserve now</string>
+    <string name="offline_reserve_note">Reserved — this claim is saved on this device.</string>
+
+    <!-- Claims -->
+    <string name="claims_title">My claims</string>
+    <string name="empty_claims">You haven\'t reserved anything yet.</string>
+    <string name="offline_banner">You\'re offline. Showing claims saved on this device.</string>
+
+    <!-- Notifications -->
+    <string name="notifications_title">Notifications</string>
+    <string name="empty_notifications">You have no notifications right now.</string>
+
+    <!-- Impact & Rewards -->
+    <string name="impact_title">Impact &amp; Leaderboard</string>
+    <string name="impact_points_label">Impact Points</string>
+    <string name="meals_saved_label">Meals Redistributed</string>
+    <string name="kg_saved_label">Kg Food Saved</string>
+    <string name="badges_label">Badges Earned</string>
+    <string name="leaderboard_title">Community Leaderboard</string>
+
+    <!-- Settings & Profile -->
+    <string name="settings_title">Profile &amp; Settings</string>
+    <string name="settings_language">Language Preference</string>
+    <string name="settings_notifications">Notification Preferences</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_address">Address / Suburb</string>
+    <string name="hint_profile_picture">Profile Picture URL</string>
+    <string name="label_leaderboard_optin">Opt-in to Community Leaderboard</string>
+    <string name="action_save_profile">Save Profile Changes</string>
+    <string name="profile_updated_success">Profile updated successfully!</string>
+    <string name="action_logout">Log out</string>
+    <string name="lang_english">English</string>
+    <string name="lang_zulu">isiZulu</string>
+    <string name="lang_xitsonga">Xitsonga</string>
+
+    <!-- Logistics Messaging -->
+    <string name="logistics_chat">Logistics Messages</string>
+    <string name="hint_message">Type a logistics message...</string>
+    <string name="action_send">Send</string>
+</resources>

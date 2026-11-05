@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NourishLink</string>
+    <string name="tagline">Ukuxhumanisa ukudla okuseleyo, siqede indlala</string>
+
+    <string name="notification_channel_id">nourishlink_alerts</string>
+    <string name="notification_channel_name">Izaziso zokuseleyo</string>
+    <string name="notification_channel_description">Amanani amasha nokubuyekezwa kokubambile</string>
+
+    <string name="login_title">Ukuxhumanisa ukudla okuseleyo,\nsiqede indlala</string>
+    <string name="login_subtitle">Ngena ukuze ubambele ukudla okuseleyo kubathengisi abaseduze nendawo yakho yokuphephela noma ekhaya.</string>
+    <string name="hint_email">Ikheli le-imeyili</string>
+    <string name="hint_password">Iphasiwedi</string>
+    <string name="action_login">Ngena</string>
+    <string name="action_google_sign_in">Qhubeka nge-Google</string>
+    <string name="prompt_create_account">Umusha lapha? Yakha i-akhawunti</string>
+    <string name="action_guest_mode">Qhubeka njengesivakashi (Demo)</string>
+    <string name="or_divider">NOMA</string>
+    <string name="error_fill_all_fields">Sicela ugcwalise zonke izinkambu</string>
+    <string name="error_password_too_short">Iphasiwedi kufanele okungenani ibe nezinhlamvu eziyi-8</string>
+    <string name="error_google_sign_in_unavailable">Ukungena nge-Google akutholakali kule divayisi</string>
+
+    <string name="register_title">Yakha i-akhawunti yakho</string>
+    <string name="hint_name">Igama eliphelele</string>
+    <string name="hint_organisation">Inhlangano (akudingekile)</string>
+    <string name="role_donor">Umnikeli</string>
+    <string name="role_beneficiary">Ozuzayo</string>
+    <string name="action_register">Yakha i-akhawunti</string>
+    <string name="prompt_back_to_login">Usunayo i-akhawunti? Ngena</string>
+
+    <string name="nav_feed">Okutholakalayo</string>
+    <string name="nav_claims">Engikubambile</string>
+    <string name="nav_notifications">Izaziso</string>
+    <string name="nav_impact">Umphumela</string>
+    <string name="nav_settings">Iphrofayela</string>
+    <string name="feed_title">Okuseleyo okuseduze</string>
+    <string name="empty_feed">Awekho amanani okudla okuseleyo okwamanje — hudula phansi ukuze uvuselele.</string>
+
+    <string name="action_reserve">Bamba manje</string>
+    <string name="offline_reserve_note">Kubanjiwe — lokhu kugcinwe kule divayisi.</string>
+
+    <string name="claims_title">Engikubambile</string>
+    <string name="empty_claims">Awukabambeli lutho okwamanje.</string>
+    <string name="offline_banner">Awuxhunyiwe ku-inthanethi. Kukhonjiswa okubambile okugcinwe kule divayisi.</string>
+
+    <string name="notifications_title">Izaziso</string>
+    <string name="empty_notifications">Awunazo izaziso okwamanje.</string>
+
+    <string name="impact_title">Umphumela &amp; Amaphuzu</string>
+    <string name="impact_points_label">Amaphuzu Omphumela</string>
+    <string name="meals_saved_label">Ukudla Okusindisiwe</string>
+    <string name="kg_saved_label">Imafuleyimu Yokudla</string>
+    <string name="badges_label">Izintshatsheli</string>
+    <string name="leaderboard_title">Ibhodi Yabaholi</string>
+
+    <string name="settings_title">Iphrofayela nezilungiselelo</string>
+    <string name="settings_language">Ulimi</string>
+    <string name="settings_notifications">Izaziso eziphuthumayo</string>
+    <string name="hint_phone">Inombolo yocingo</string>
+    <string name="hint_address">Ikheli</string>
+    <string name="hint_profile_picture">Isithombe sephrofayela</string>
+    <string name="label_leaderboard_optin">Ngena ebhodini yabaholi</string>
+    <string name="action_save_profile">Gcina iphrofayela</string>
+    <string name="profile_updated_success">Iphrofayela ibuyekeziwe!</string>
+    <string name="action_logout">Phuma</string>
+    <string name="lang_english">IsiNgisi</string>
+    <string name="lang_zulu">IsiZulu</string>
+    <string name="lang_xitsonga">Xitsonga</string>
+
+    <string name="logistics_chat">Ulayini womlayezo</string>
+    <string name="hint_message">Bhala umlayezo...</string>
+    <string name="action_send">Thumela</string>
+</resources>

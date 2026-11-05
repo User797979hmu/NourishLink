@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NourishLink</string>
+    <string name="tagline">Ku hlanganisa leswi seleke, ku hetisa ndlala</string>
+
+    <string name="notification_channel_id">nourishlink_alerts</string>
+    <string name="notification_channel_name">Switiviso swa leswi seleke</string>
+    <string name="notification_channel_description">Swiviko swintshwa na ku antswisiwa ka leswi tiyimiseriweke</string>
+
+    <string name="login_title">Ku hlanganisa leswi seleke,\nku hetisa ndlala</string>
+    <string name="login_subtitle">Ngena leswaku u kota ku tiyimisela swakudya leswi seleke eka vaxavisi lava nga kusuhi na tindhawu ta wena to hlayisa kumbe ekaya.</string>
+    <string name="hint_email">Adirese ya imeyili</string>
+    <string name="hint_password">Phasiwedi</string>
+    <string name="action_login">Ngena</string>
+    <string name="action_google_sign_in">Yisa emahlweni na Google</string>
+    <string name="prompt_create_account">U ntshanyana? Endla akhawunti</string>
+    <string name="action_guest_mode">Yisa emahlweni tanihi Muendzi (Demo)</string>
+    <string name="or_divider">KUMBE</string>
+    <string name="error_fill_all_fields">Ndzi kombela u tata tinsimu hinkwato</string>
+    <string name="error_password_too_short">Phasiwedi yi fanele yi va ni swiga swa 8 ku ya emahlweni</string>
+    <string name="error_google_sign_in_unavailable">Ku ngena hi Google a swi kumeki eka rivhici leri</string>
+
+    <string name="register_title">Endla akhawunti ya wena</string>
+    <string name="hint_name">Vito hinkwaro</string>
+    <string name="hint_organisation">Nhlangano (a swi lavehi)</string>
+    <string name="role_donor">Munyiki</string>
+    <string name="role_beneficiary">Muakuriwa</string>
+    <string name="action_register">Endla akhawunti</string>
+    <string name="prompt_back_to_login">Se u ri na akhawunti? Ngena</string>
+
+    <string name="nav_feed">Leswi nga kona</string>
+    <string name="nav_claims">Leswi ndzi swi tiyimiseleke</string>
+    <string name="nav_notifications">Switiviso</string>
+    <string name="nav_impact">Ntshovelo</string>
+    <string name="nav_settings">Phurofayili</string>
+    <string name="feed_title">Leswi seleke swa kusuhi</string>
+    <string name="empty_feed">A ku na swakudya swa laha sweswi — koka ehansi ku antswisa.</string>
+
+    <string name="action_reserve">Tiyimisela sweswi</string>
+    <string name="offline_reserve_note">Yi tiyimiselwile — leswi swi hlayisiwe eka rivhici leri.</string>
+
+    <string name="claims_title">Leswi ndzi swi tiyimiseleke</string>
+    <string name="empty_claims">A hi si tiyimisela nchumu hi sweswi.</string>
+    <string name="offline_banner">A wu na inthanete. Ku kombisiwa leswi tiyimiseriweke leswi hlayisiweke eka rivhici leri.</string>
+
+    <string name="notifications_title">Switiviso</string>
+    <string name="empty_notifications">A wu na switiviso sweswi.</string>
+
+    <string name="impact_title">Ntshovelo &amp; Xirhangana</string>
+    <string name="impact_points_label">Tintlhohe ta Ntshovelo</string>
+    <string name="meals_saved_label">Swakudya leswi ponisiweke</string>
+    <string name="kg_saved_label">Tikhilo ta swakudya</string>
+    <string name="badges_label">Swinsingiriki</string>
+    <string name="leaderboard_title">Xirhangana xa Vaaki</string>
+
+    <string name="settings_title">Phurofayili na vulawulo</string>
+    <string name="settings_language">Ririmi</string>
+    <string name="settings_notifications">Switiviso</string>
+    <string name="hint_phone">Nomboro ya riqingo</string>
+    <string name="hint_address">Adirese</string>
+    <string name="hint_profile_picture">Mfanekiso wa phurofayili</string>
+    <string name="label_leaderboard_optin">Tsakela ku ngena eka xirhangana</string>
+    <string name="action_save_profile">Hlayisa phurofayili</string>
+    <string name="profile_updated_success">Phurofayili yi antswisiwile!</string>
+    <string name="action_logout">Huma</string>
+    <string name="lang_english">Xinghezi</string>
+    <string name="lang_zulu">IsiZulu</string>
+    <string name="lang_xitsonga">Xitsonga</string>
+
+    <string name="logistics_chat">Rungula ra switimela</string>
+    <string name="hint_message">Tsala rungula...</string>
+    <string name="action_send">Rhumela</string>
+</resources>
